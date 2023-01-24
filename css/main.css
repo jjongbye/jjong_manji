@@ -166,7 +166,7 @@ body {
 .cover-heading {
   margin-top: 7.5rem;
   color: #fefefe;
-  font-family: NanumMyeongjo-b;
+  font-family:KoPubBatang-b;
 }
 
 .top-div {
@@ -199,19 +199,19 @@ header {
 }
 
 .section1-main {
-  font-family: NanumMyeongjo-r;
+  font-family: KoPubBatang-l;
   line-height: 2em;
   font-size: 1.2rem;
 }
 
 .section1-sub1 {
-  font-family: NanumMyeongjo-b;
+  font-family: KoPubBatang-b;
   line-height: 2.1em;
   font-size: 1.35rem;
 }
 
 .section1-sub2 {
-  font-family: NanumMyeongjo-b;
+  font-family: KoPubBatang-b;
   line-height: 2.1em;
   font-size: 1.35rem;
 }
@@ -227,7 +227,7 @@ header {
 }
 
 .section2-main {
-  font-family: NanumMyeongjo-b;
+  font-family: KoPubBatang-b;
   line-height: 1.5em;
   font-size: 1.7rem;
   position: relative;
@@ -249,7 +249,7 @@ header {
 }
 
 .section2-sub {
-  font-family: NanumMyeongjo-b;
+  font-family: KoPubBatang-b;
   line-height: 2em;
   font-size: 1.5rem;
 }
@@ -287,13 +287,13 @@ header {
 }
 
 .section4-sec1 {
-  font-family: NanumMyeongjo-r;
+  font-family: KoPubBatang-l;
   line-height: 1.5em;
   font-size: 1.3rem;
 }
 
 .section4-sec2 {
-  font-family: NanumMyeongjo-b;
+  font-family: KoPubBatang-b;
   line-height: 1.5em;
   font-size: 1.35rem;
 }
@@ -315,13 +315,13 @@ header {
 }
 
 .section5-sub {
-  font-family: NanumMyeongjo-r;
+  font-family: KoPubBatang-l;
   line-height: 1.5em;
   font-size: 1.3rem;
 }
 
 .section5-table {
-  font-family: NanumMyeongjo-r;
+  font-family: KoPubBatang-l;
   line-height: 1.5em;
   font-size: 1.3rem;
   border-top: 1px solid #ccc;
@@ -369,24 +369,24 @@ header {
 }
 
 .section6-location-main {
-  font-family: NanumMyeongjo-e;
+  font-family: KoPubBatang-b;
   line-height: 1.5em;
   font-size: 1.5rem;
 }
 
 .section6-location-main-1 {
-  font-family: NanumMyeongjo-e;
+  font-family: KoPubBatang-b;
   line-height: 1.5em;
   font-size: 1rem;
 }
 .section6-sub {
-  font-family: NanumMyeongjo-r;
+  font-family: KoPubBatang-l;
   line-height: 1.5em;
   font-size: 1.3rem;
 }
 
 .section6-location-sub {
-  font-family: NanumMyeongjo-r;
+  font-family: KoPubBatang-l;
   line-height: 1.5em;
   font-size: 1.2rem;
   text-align: center;
@@ -415,13 +415,13 @@ header {
 }
 
 .section7-main {
-  font-family: NanumMyeongjo-b;
+  font-family: KoPubBatang-b;
   line-height: 1.4em;
   font-size: 1.4rem;
 }
 
 .section7-button-groom {
-  font-family: NanumMyeongjo-b;
+  font-family: KoPubBatang-b;
   font-size: 1.2rem;
   background-color: #77b7d2;
   color: #fff;
@@ -451,7 +451,7 @@ header {
 }
 
 .section7-button-bride {
-  font-family: NanumMyeongjo-b;
+  font-family: KoPubBatang-b;
   font-size: 1.2rem;
   background-color: #CC9999;
   color: #fff;
@@ -510,7 +510,7 @@ header {
   background: #2db400;
   color: #fff;
   text-decoration: none;
-  font-family:NanumMyeongjo-b;
+  font-family:KoPubBatang-b;
   text-align: center;
   font-weight: 500;
 }
@@ -521,7 +521,7 @@ header {
   border-color :#ffffff;
   color:#fff;
   height:2em;
-  font-family: NanumMyeongjo-b;
+  font-family: KoPubBatang-b;
   font-size: 1.3rem;
   border: 0;
 }
@@ -532,7 +532,7 @@ header {
   border-color :#ffffff;
   color:#fff;
   height:2em;
-  font-family: NanumMyeongjo-b;
+  font-family: KoPubBatang-b;
   font-size: 1.3rem;
   border: 0;
 }
