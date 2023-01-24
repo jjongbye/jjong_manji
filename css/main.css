@@ -63,7 +63,7 @@ a:hover {
 .top-title {
   margin-top: 1em;
   margin-bottom: 1em;
-  color: #333;
+  color: #7165b1;
   text-shadow: none;
   font-family: KoPubBatang-b;
   font-size: 2em;
@@ -71,7 +71,7 @@ a:hover {
 
 .top-title-sub{
   margin-top: 1em;
-  color: #333;
+  color: #7165b1;
   text-shadow: none;
   font-family: KoPubBatang-m;
   font-size: 1.2em;
@@ -120,15 +120,17 @@ body {
   display: -ms-flexbox;
   display: flex;
   color: #fff;
+
 }
 
 .cover-container {
   max-width: 42em;
+  color : #f0e2f9;
 }
 
 .cover-container-2 {
-  max-width: 42em;
-  color:red;
+  max-width: 30em;
+  color:#7165b1;
 }
 
 
@@ -192,8 +194,12 @@ header {
 /* section */
 .section1-title {
   margin-top: 1em;
-  color: #333;
-  background-color: #fefefe;
+  color: #7165b1;
+  background-image:url(../img/background.jpg);
+  background-position: center;
+  background-size: 700px 500px;
+  background-repeat: no-repeat;
+  /*background-color: #fefefe;*/
   text-shadow: none;
   font-size: 1rem;
 }
@@ -201,17 +207,22 @@ header {
 .section1-main {
   font-family: KoPubBatang-l;
   line-height: 2em;
-  font-size: 1.2rem;
+  font-size: 1.1em;
+  
 }
 
 .section1-sub1 {
-  font-family: KoPubBatang-b;
-  line-height: 2.1em;
-  font-size: 1.35rem;
+  font-family: KoPubBatang-m;
+  line-height: 2em;
+  font-size: 1.2rem;
 }
 
 .section1-sub2 {
+  margin-top: 1em;
+  color: #7165b1;
+  text-shadow: none;
   font-family: KoPubBatang-b;
+
   line-height: 2.1em;
   font-size: 1.35rem;
 }
@@ -222,7 +233,7 @@ header {
 
 .section2-title {
   margin-top: 1em;
-  color: #333;
+  color:  #7165b1;
   text-shadow: none;
 }
 
@@ -255,12 +266,12 @@ header {
 }
 
 .section3 {
-  background-color: #f9f9f9;
+  background-color: #ffffff;
 }
 
 .section3-title {
   margin-top: 1em;
-  color: #333;
+  color: #b191c3;
   text-shadow: none;
 }
 
@@ -278,7 +289,7 @@ header {
 
 .section4-title {
   margin-top: 1em;
-  color: #333;
+  color:  #7165b1;
   text-shadow: none;
 }
 
@@ -299,12 +310,12 @@ header {
 }
 
 .section5 {
-  background-color: #f9f9f9;
+  background-color: #f9f2f9;
 }
 
 .section5-title {
   margin-top: 1em;
-  color: #333;
+  color:  #7165b1;
   text-shadow: none;
 }
 
@@ -324,13 +335,14 @@ header {
   font-family: KoPubBatang-l;
   line-height: 1.5em;
   font-size: 1.3rem;
-  border-top: 1px solid #ccc;
-  border-bottom: 1px solid #ccc;
+  border-top: 1px solid #f0e2f9;
+  border-bottom: 1px solid #f0e2f9;
 }
 
 .section5-table tr td{
   padding-top: 0.8em;
   padding-bottom: 0.8em;
+  color : #b191c3;
 }
 
 .section5-table tr .sun{
@@ -339,7 +351,7 @@ header {
 
 .section5-table tr .check{
   color: white;
-  background-color: chocolate;
+  background-color: #8c9ee0;
   border-radius: 50px;
 }
 
@@ -353,12 +365,12 @@ header {
 
 .section6-title {
   margin-top: 1em;
-  color: #333;
+  color:  #7165b1;
   text-shadow: none;
 }
 
 .section6-location {
-  color: #333;
+  color:  #7165b1;
   text-shadow: none;
 }
 
@@ -387,8 +399,8 @@ header {
 
 .section6-location-sub {
   font-family: KoPubBatang-l;
-  line-height: 1.5em;
-  font-size: 1.2rem;
+  line-height: 2em;
+  font-size: 1em;
   text-align: center;
 }
 
@@ -398,12 +410,12 @@ header {
 
 .section7-title {
   margin-top: 1em;
-  color: #333;
+  color:  #7165b1;
   text-shadow: none;
 }
 
 .section7-modal {
-  color: #333;
+  color:  #7165b1;
 }
 
 .section7-modal-title {
@@ -420,10 +432,11 @@ header {
   font-size: 1.4rem;
 }
 
+
 .section7-button-groom {
   font-family: KoPubBatang-b;
   font-size: 1.2rem;
-  background-color: #77b7d2;
+  background-color: #8c9ee0;
   color: #fff;
   border: 0;
   border-radius: 50px;
@@ -433,19 +446,19 @@ header {
 }
 
 .section7-button-groom:hover {
-  background-color: #77b7d2;
+  background-color: #b9c9ff;
   color: #fff;
   border: 0;
 }
 
 .section7-button-groom:active {
-  background-color: #49a7cf;
+  background-color: #8c9ee0;
   color: #fff;
   border: 0;
 }
 
 .section7-button-groom:valid {
-  background-color: #77b7d2;
+  background-color: #8c9ee0;
   color: #fff;
   border: 0;
 }
@@ -453,7 +466,7 @@ header {
 .section7-button-bride {
   font-family: KoPubBatang-b;
   font-size: 1.2rem;
-  background-color: #CC9999;
+  background-color: #af8fc1;
   color: #fff;
   border: 0;
   border-radius: 50px;
@@ -463,19 +476,19 @@ header {
 }
 
 .section7-button-bride:hover {
-  background-color: #CC9999;
+  background-color: #f0e2f9;
   color: #fff;
   border: 0;
 }
 
 .section7-button-bride:active {
-  background-color: #996666;
+  background-color: #af8fc1;
   color: #fff;
   border: 0;
 }
 
 .section7-button-bride:valid {
-  background-color: #CC9999;
+  background-color: #af8fc1;
   color: #fff;
   border: 0;
 }
@@ -495,7 +508,7 @@ header {
 
 /* etc */
 .foot {
-  color: #333;
+  color:  #7165b1;
 }
 
 .color_red{
@@ -516,7 +529,7 @@ header {
 }
 
 .button-groom-sub{
-  background-color:#49a7cf;
+  background-color:#8c9ee0;
   border-radius:1.5em 1.5em 1.5em 1.5em;
   border-color :#ffffff;
   color:#fff;
@@ -527,7 +540,7 @@ header {
 }
 
 .button-bride-sub{
-  background-color:#CC9999;
+  background-color:#af8fc1;
   border-radius:1.5em 1.5em 1.5em 1.5em;
   border-color :#ffffff;
   color:#fff;
@@ -535,4 +548,7 @@ header {
   font-family: KoPubBatang-b;
   font-size: 1.3rem;
   border: 0;
+}
+.change:hover {
+  color: #ffffff;
 }
