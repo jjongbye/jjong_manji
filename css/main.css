@@ -16,6 +16,30 @@
   font-family: 'DancingScript-b';
   src: url('../font/DancingScript-Bold.ttf') format('truetype');
 }
+@font-face {
+  font-family: 'KoPubBatang-b';
+  src: url('../font/KoPubWorld\ Batang\ Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'KoPubBatang-l';
+  src: url('../font/KoPubWorld\ Batang\ Light.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'KoPubBatang-m';
+  src: url('../font/KoPubWorld\ Batang\ Medium.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'KoPubDotum-b';
+  src: url('../font/KoPubWorld\ Dotum\ Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'KoPubDotum-l';
+  src: url('../font/KoPubWorld\ Dotum\ Light.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'KoPubDotum-m';
+  src: url('../font/KoPubWorld\ Dotum\ Medium.ttf') format('truetype');
+}
 
 /* Links */
 a,
@@ -41,16 +65,16 @@ a:hover {
   margin-bottom: 1em;
   color: #333;
   text-shadow: none;
-  font-family: NanumMyeongjo-b;
-  font-size: 2.5rem;
+  font-family: KoPubBatang-b;
+  font-size: 2em;
 }
 
 .top-title-sub{
   margin-top: 1em;
   color: #333;
   text-shadow: none;
-  font-family: NanumMyeongjo-b;
-  font-size: 1.2rem;
+  font-family: KoPubBatang-m;
+  font-size: 1.2em;
 }
 
 html,
