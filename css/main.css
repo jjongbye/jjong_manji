@@ -67,6 +67,10 @@ a:hover {
   text-shadow: none;
   font-family: KoPubBatang-b;
   font-size: 2em;
+  width:9.5em;
+  height: 2em;
+  border-bottom: 0.25pt solid #7165b1;
+  margin:auto;
 }
 
 .top-title-sub{
@@ -213,7 +217,10 @@ header {
   font-family: KoPubBatang-l;
   line-height: 2em;
   font-size: 1em;
-  
+  width : 30em;
+  border-left: 0.25pt solid #7165b1;
+  border-right: 0.25pt solid #7165b1;
+  margin:auto;
 }
 
 .section1-sub1 {
