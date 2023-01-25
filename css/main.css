@@ -77,6 +77,11 @@ a:hover {
   font-size: 1.2em;
 }
 
+.top-title-sub1 {
+  width : 18em;
+  border-bottom: 0.25pt solid #f0e2f9;
+} 
+
 html,
 body {
   height: 100%;
@@ -201,20 +206,20 @@ header {
   background-repeat: no-repeat;
   /*background-color: #fefefe;*/
   text-shadow: none;
-  font-size: 1rem;
+  font-size: 1em;
 }
 
 .section1-main {
   font-family: KoPubBatang-l;
   line-height: 2em;
-  font-size: 1.1em;
+  font-size: 1em;
   
 }
 
 .section1-sub1 {
   font-family: KoPubBatang-m;
   line-height: 2em;
-  font-size: 1.2rem;
+  font-size: 1.2em;
 }
 
 .section1-sub2 {
@@ -222,7 +227,6 @@ header {
   color: #7165b1;
   text-shadow: none;
   font-family: KoPubBatang-b;
-
   line-height: 2.1em;
   font-size: 1.35rem;
 }
@@ -230,6 +234,13 @@ header {
 .section1-sub2 .small {
   font-size: 1.2rem;
 }
+
+.section1-sub3 {
+  margin-left : 30%;
+  margin-right : 30%;
+  border-left: 1pt solid #7165b1;
+  border-right: 1pt solid #7165b1;
+} 
 
 .section2-title {
   margin-top: 1em;
