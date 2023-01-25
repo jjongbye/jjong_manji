@@ -238,8 +238,8 @@ header {
 .section1-sub3 {
   margin-left : 30%;
   margin-right : 30%;
-  border-left: 1pt solid #7165b1;
-  border-right: 1pt solid #7165b1;
+  border-left: 0.25pt solid #7165b1;
+  border-right: 0.25pt solid #7165b1;
 } 
 
 .section2-title {
